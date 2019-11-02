@@ -1,8 +1,8 @@
 {
-  "name": "num2word",
-  "version": "1.0.0",
-  "description": "Number To Wrod in Burmese / English language",
-  "main": "index.js",
+  "name": "num2word-mm",
+  "version": "1.0.1",
+  "description": "Number To Word in Burmese / English language",
+  "main": "dist/num2word.js",
   "scripts": {
   },
   "keywords": [
