@@ -1,0 +1,20 @@
+{
+  "name": "mm-num2word",
+  "version": "1.0.0",
+  "description": "Number To Wrod in Burmese language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "number",
+    "word",
+    "burmese",
+    "language",
+    "myanmar",
+    "number-word",
+    "number-string"
+  ],
+  "author": "Zin Kyaw Kyaw",
+  "license": "ISC"
+}
