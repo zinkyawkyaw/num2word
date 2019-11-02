@@ -1,10 +1,9 @@
 {
-  "name": "mm-num2word",
+  "name": "num2word",
   "version": "1.0.0",
-  "description": "Number To Wrod in Burmese language",
+  "description": "Number To Wrod in Burmese / English language",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "number",
@@ -13,7 +12,8 @@
     "language",
     "myanmar",
     "number-word",
-    "number-string"
+    "number-string",
+    "number to word"
   ],
   "author": "Zin Kyaw Kyaw",
   "license": "ISC"
