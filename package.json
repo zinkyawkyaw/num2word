@@ -20,6 +20,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/zinkyawkyaw/num2word.git"
-  },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  }
 }
