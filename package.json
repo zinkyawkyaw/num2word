@@ -1,6 +1,6 @@
 {
   "name": "num2word-mm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Number To Word in Burmese / English language",
   "main": "dist/num2word.js",
   "scripts": {
