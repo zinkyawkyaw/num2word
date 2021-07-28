@@ -1,6 +1,6 @@
 {
   "name": "num2word-mm",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Number To Word in Burmese / English language",
   "main": "dist/num2word.js",
   "scripts": {
@@ -16,5 +16,10 @@
     "number to word"
   ],
   "author": "Zin Kyaw Kyaw",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zinkyawkyaw/num2word.git"
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }

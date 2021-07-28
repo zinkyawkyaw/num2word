@@ -2,10 +2,12 @@
 
 ## Usage
 
-```const num2word = require('num2word-mm')```
+- `const num2word = require('num2word-mm')`
+- OR
+- `const { ToBurmese, ToEnglish } = require('./dist/num2word')`
 
-```console.log(num2word.burmese(100.9));```
-```//'တစ် ရာ ဒဿမ ကိုး '```
+- `num2word.ToBurmese(100.9)`
+- `တစ် ရာ ဒဿမ ကိုး`
 
-```console.log(num2word.english(1020));```
-```//one thousand twenty```
+- `num2word.ToEnglish(1020)`
+- `one thousand twenty`
